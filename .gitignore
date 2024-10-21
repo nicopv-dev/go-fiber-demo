@@ -1,0 +1,28 @@
+# Ignore binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore build artifacts
+/build
+/bin
+/vendor
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore configuration files
+*.env
+config.yml
+
+# Ignore database files
+*.db
+*.sqlite
+
+# Ignore generated files
+*.gen.go
